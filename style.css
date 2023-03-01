@@ -1,0 +1,31 @@
+#a1{
+    border-radius: 35px;
+}
+#a2{
+    border-radius: 35px;
+}
+#hra{
+    border: 1px solid #ff0000
+}
+#hrb{
+    border: 1px solid #ff7b00
+}
+#hrc{
+    border: 1px solid #ffd900
+}
+#hrd{
+    border: 1px solid #5eff00
+}
+#hre{
+    border: 1px solid #0059ff
+}
+#hrf{
+    border: 1px solid #e74df5
+}
+#wee{
+    border-radius: 35px;
+}
+body{
+    background: linear-gradient(0deg, rgba(253,187,45,1) 0%, rgba(34,193,195,1) 100%);
+
+}
